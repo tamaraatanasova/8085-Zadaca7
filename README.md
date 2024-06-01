@@ -10,7 +10,6 @@ more than 128 data occur, the µP operation stops.
 
 
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca6/blob/main/zad6sl1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
